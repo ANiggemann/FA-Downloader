@@ -26,17 +26,17 @@ Configuration
 -
 In the header of the VBScript file you can find a section that reads "Configuration". Here the 4 most important settings can be set.
 * CARD = "flashair"
-* * This is the name or the IP of the card
+  * This is the name or the IP of the card
 * localfolder = "C:\PHOTOS\FLASHAIR\"
-* * This is the target drectory for all transfers.  The trailing backslash is mandatory
+  * This is the target drectory for all transfers.  The trailing backslash is mandatory
 * filetypes = "JPG"
-* * List of file types, separated by comma
+  * List of file types, separated by comma
 * loglevel = 0
-* * Verbosity of the log
-* * * 0 = no log
-* * * 1 = transfers only
-* * * 2 = extended log
-* * * The log can be found in the file FA_Download.log in the TEMP directory
+  * Verbosity of the log
+    * 0 = no log
+    * 1 = transfers only
+    * 2 = extended log
+    * The log can be found in the file FA_Download.log in the TEMP directory
 
 Command line parameters
 -
