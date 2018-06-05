@@ -1,4 +1,4 @@
-# Moved to GitLab: [FA-Downloader](https://gitlab.com/ANiggemann/ANI-Camera-Remote)
+# Moved to GitLab: [FA-Downloader](https://gitlab.com/ANiggemann/FA-Downloader)
 
 
 # FA-Downloader
